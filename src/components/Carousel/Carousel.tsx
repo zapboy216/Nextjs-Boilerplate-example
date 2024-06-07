@@ -33,7 +33,7 @@ const Carousel: React.FC = () => {
     },
   ];
 
-  const overlayOpacity = 7; // Fixed opacity value (7 out of 10)
+  const overlayOpacity = 6; // Fixed opacity value (7 out of 10)
 
   useEffect(() => {
     const interval = setInterval(() => {
