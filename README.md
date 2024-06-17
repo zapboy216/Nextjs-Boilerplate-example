@@ -1,3 +1,3 @@
-# A Next.js Boilerplate example
+# A Next.js Boilerplate example stripped
 
 

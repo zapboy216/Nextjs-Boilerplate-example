@@ -4,7 +4,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'DinanWeb',
+  name: 'COMPANY DX',
   locales: ['en', 'fr'],
   defaultLocale: 'en',
   localePrefix,

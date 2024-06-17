@@ -8,11 +8,11 @@
     "sign_up_link": "Sign up"
   },
   "BaseTemplate": {
-    "description": "Dinan Web Development",
+    "description": "Company DX Web Development",
     "made_with": "Made with"
   },
   "Index": {
-    "meta_title": "Dinan Web Development",
+    "meta_title": "COMPANY DX Web Development",
     "meta_description": "Freelance web developers in South Florida",
     "hero_image_url": "https://storage.googleapis.com/dinan/dinanweb/med4.png",
     "paragraph_one": "Innovative Web Solutions, Exceptional Expertise",
@@ -48,7 +48,7 @@
     "about_paragraph_four": "We build robust and scalable applications using the latest technologies and best practices.",
     "about_paragraph_five": "Our mission is to empower businesses and individuals to achieve their goals through cutting-edge technology and design.",
     "about_paragraph_six": " helping businesses transform their digital presence and drive growth. Our passionate experts are dedicated to delivering exceptional results, and we take pride in our ability to consistently exceed our clients' expectations",
-    "splash_heading": "About DinanDev and DinanWeb",
+    "splash_heading": "About Dev and the Web",
     "heading": "Innovation",
     "heading_two": "Design",
     "heading_three": "Development",

@@ -9,7 +9,7 @@ const emailChannel = new EmailAlertChannel('email-channel-1', {
 });
 
 export const config = defineConfig({
-  projectName: 'DinanWeb',
+  projectName: 'COMPANY DX',
   logicalId: 'dinan web',
   repoUrl: 'https://github.com/zapboy216/Next-js-Boilerplate',
   checks: {
